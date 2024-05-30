@@ -1,4 +1,4 @@
-# CSE 13S
+# CSE 13S | @UCSC
 
 ## Assignment directories
 
