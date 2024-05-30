@@ -1,0 +1,3 @@
+A histogram is like a bar graph and the way this code makes a histogram is it starts with 16 bins from [0,16). The user types all the numbers they want and the code will count the number of occurences. If the user inputs a number that is greater than 15, the code will double its range until the number fits. Keep in mind that there will always be 16 bins so in each bin after being scaled, there will be a range of values. 
+
+Usage: To run type "bash -v testing.sh >& testing.out", input all the numbers you want then press ctrl+d to exit. The histogram will then output in testing.out with the values inputted in testing.sh. To run through console, type ./histogram.
